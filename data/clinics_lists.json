@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1664,
+        "userId": "1013801298",
+        "name": "test 7",
+        "stationId": "500",
+        "role": "MSA",
+        "userDefault": false
+    },
+    {
+        "id": 1330,
+        "userId": "1013801298",
+        "name": "Test 2",
+        "stationId": "500",
+        "role": "MSA",
+        "userDefault": false
+    },
+    {
+        "id": 1352,
+        "userId": "1013801298",
+        "name": "test-4",
+        "stationId": "500",
+        "role": "MSA",
+        "userDefault": false
+    },
+    {
+        "id": 1353,
+        "userId": "1013801298",
+        "name": "test 5",
+        "stationId": "500",
+        "role": "MSA",
+        "userDefault": false
+    },
+    {
+        "id": 1695,
+        "userId": "1013801298",
+        "name": "test 9",
+        "stationId": "530",
+        "role": "MSA",
+        "userDefault": true
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "id": "17",
+        "stationId": "500",
+        "resourceIen": "2",
+        "clinicIen": "17",
+        "name": "MENTAL HYGIENE",
+        "listId": "1353"
+    },
+    {
+        "id": "23",
+        "stationId": "500",
+        "resourceIen": "6",
+        "clinicIen": "23",
+        "name": "GENERAL MEDICINE",
+        "listId": "1352"
+    },
+    {
+        "id": "26",
+        "stationId": "500",
+        "resourceIen": "13",
+        "clinicIen": "26",
+        "name": "MENTAL HYGIENE-OPC",
+        "listId": "1330"
+    },
+    {
+        "id": "31",
+        "stationId": "500",
+        "resourceIen": "19",
+        "clinicIen": "31",
+        "name": "SOCIAL WORK",
+        "listId": "1353"
+    },
+    {
+        "id": "32",
+        "stationId": "500",
+        "resourceIen": "20",
+        "clinicIen": "32",
+        "name": "PRIMARY CARE",
+        "listId": "1664"
+    },
+    {
+        "id": "62",
+        "stationId": "500",
+        "resourceIen": "30",
+        "clinicIen": "62",
+        "name": "DERMATOLOGY",
+        "listId": "1352"
+    },
+    {
+        "id": "64",
+        "stationId": "500",
+        "resourceIen": "31",
+        "clinicIen": "64",
+        "name": "AUDIOLOGY",
+        "listId": "1330"
+    },
+    {
+        "id": "114",
+        "stationId": "500",
+        "resourceIen": "32",
+        "clinicIen": "114",
+        "name": "NUCLEAR MEDICINE",
+        "listId": "1695"
+    },
+    {
+        "id": "127",
+        "stationId": "500",
+        "resourceIen": "33",
+        "clinicIen": "127",
+        "name": "PLASTIC SURGERY",
+        "listId": "1353"
+    },
+    {
+        "id": "128",
+        "stationId": "500",
+        "resourceIen": "34",
+        "clinicIen": "128",
+        "name": "MAMMOGRAM",
+        "listId": "1353"
+    },
+    {
+        "id": "133",
+        "stationId": "500",
+        "resourceIen": "35",
+        "clinicIen": "133",
+        "name": "EMPLOYEE HEALTH",
+        "listId": "1352"
+    },
+    {
+        "id": "137",
+        "stationId": "500",
+        "resourceIen": "36",
+        "clinicIen": "137",
+        "name": "COMP AND PEN",
+        "listId": "1330"
+    },
+    {
+        "id": "168",
+        "stationId": "500",
+        "resourceIen": "40",
+        "clinicIen": "168",
+        "name": "ULTRASOUND",
+        "listId": "1353"
+    },
+    {
+        "id": "169",
+        "stationId": "500",
+        "resourceIen": "41",
+        "clinicIen": "169",
+        "name": "19 LINDA'S FUNNY CLINIC",
+        "listId": "1664"
+    },
+    {
+        "id": "190",
+        "stationId": "500",
+        "resourceIen": "43",
+        "clinicIen": "190",
+        "name": "DIABETIC TELERETINAL IMAGER",
+        "listId": "1695"
+    },
+    {
+        "id": "191",
+        "stationId": "500",
+        "resourceIen": "44",
+        "clinicIen": "191",
+        "name": "DIABETIC TELERET READER LOCAL",
+        "listId": "1664"
+    },
+    {
+        "id": "193",
+        "stationId": "500",
+        "resourceIen": "45",
+        "clinicIen": "193",
+        "name": "DIABETIC TELERET READER REMOTE",
+        "listId": "1330"
+    },
+    {
+        "id": "195",
+        "stationId": "500",
+        "resourceIen": "46",
+        "clinicIen": "195",
+        "name": "CARDIOLOGY",
+        "listId": "1352"
+    },
+    {
+        "id": "228",
+        "stationId": "500",
+        "resourceIen": "53",
+        "clinicIen": "228",
+        "name": "DENTAL",
+        "listId": "1353"
+    },
+    {
+        "id": "229",
+        "stationId": "500",
+        "resourceIen": "54",
+        "clinicIen": "229",
+        "name": "HEMATOLOGY",
+        "listId": "1664"
+    },
+    {
+        "id": "233",
+        "stationId": "500",
+        "resourceIen": "58",
+        "clinicIen": "233",
+        "name": "PODIATRY",
+        "listId": "1330"
+    },
+    {
+        "id": "234",
+        "stationId": "500",
+        "resourceIen": "59",
+        "clinicIen": "234",
+        "name": "OBSERVATION",
+        "listId": "1352"
+    },
+    {
+        "id": "239",
+        "stationId": "500",
+        "resourceIen": "61",
+        "clinicIen": "239",
+        "name": "SURGICAL CLINIC",
+        "listId": "1352"
+    },
+    {
+        "id": "246",
+        "stationId": "500",
+        "resourceIen": "62",
+        "clinicIen": "246",
+        "name": "CWT CLINIC",
+        "listId": "1695"
+    }
+]
